@@ -1,0 +1,64 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+ul li {
+    list-style: none;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 32px;
+    text-transform: uppercase;
+}
+
+
+.encabezado {
+    background-color:#EAC926;
+    padding: 25px;
+}
+
+.encabezado-logo {
+    width: 25%;
+}
+
+.encabezado-encabezadoPrincipal{
+    color: #03264C;;
+}
+
+
+.enlace {
+    color: #1259c3;
+}
+
+.lista-enlaces {
+    color: #1259c3;
+    text-decoration: none;
+
+}
+
+
+.container {
+    width: 90%;
+}
+
+
+.banner {
+    width: 100%;
+}
+
+.gris-oscuro {
+   font-size: 12px;
+    color: #666;
+}
+
+
+.gris-claro {
+    font-size: 8px;
+    color: #ebebeb;
+}
+
